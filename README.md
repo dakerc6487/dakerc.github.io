@@ -6,8 +6,7 @@ ______________________________________
 ###dkerchner@my.waketech.edu  
 ##**Occupation**  
 ______________________________________  
-###Principal Solutions Architect - SAS Instatute  
-##**College**  
+###Principal Solutions Architect - SAS Institute  
 _______________________________________  
 ###Wake Tech Cyber Security - Previous: BE Maritime College  
 ##**Hobbies**  
