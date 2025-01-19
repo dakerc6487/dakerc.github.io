@@ -19,6 +19,6 @@ ________________________________________
  *Listening to Music  
  *Watching Football  
  ###**Websites I Recommend**
- *[ESPN](www.espn.com)
- *[Google](www.google.com)
- *[WRAL](www.wral.com)
+ *[ESPN](www.espn.com) - List of Sporting Events
+ *[Google](www.google.com) - Search Content
+ *[WRAL](www.wral.com) - Local News
