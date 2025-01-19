@@ -23,7 +23,7 @@ ______________________________________
 ###Principal Solutions Architect - SAS Institute  
 _______________________________________  
 
-##Colloges
+##Colleges
 ###Wake Tech Cyber Security - Previous: BE Maritime College 
 
 ##**Hobbies**  
