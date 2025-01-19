@@ -1,3 +1,12 @@
+#**About Me**  
+##**My Interests**  
+ *Playing Golf  
+ *Listening to Music  
+ *Watching Football  
+##**Websites I Recommend**  
+[ESPN](www.espn.com) - List of Sporting Events  
+[Google](www.google.com) - Search Content  
+[WRAL](www.wral.com) - Local News  
 ##**Hello**  
 ______________________________________  
 ###My name is **Darrin Kerchner**  
@@ -12,12 +21,4 @@ _______________________________________
 ##**Hobbies**  
 ________________________________________  
 #Playing Golf  
-#**About Me**  
-##**My Interests**  
- *Playing Golf  
- *Listening to Music  
- *Watching Football  
-##**Websites I Recommend**  
-[ESPN](www.espn.com) - List of Sporting Events  
-[Google](www.google.com) - Search Content  
-[WRAL](www.wral.com) - Local News
+
