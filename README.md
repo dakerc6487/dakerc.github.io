@@ -1,8 +1,8 @@
 #**About Me**  
 ##**My Interests**  
- *Playing Golf  
- *Listening to Music  
- *Watching Football  
+*Playing Golf  
+*Listening to Music  
+*Watching Football  
 ##**Websites I Recommend**  
 [ESPN](www.espn.com) - List of Sporting Events  
 [Google](www.google.com) - Search Content  
